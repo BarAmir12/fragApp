@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043736856380",
+    "project_id": "fragapp-98fd5",
+    "storage_bucket": "fragapp-98fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043736856380:android:3aa2fdac26c18f7529c039",
+        "android_client_info": {
+          "package_name": "com.example.fragapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6jsYr4tv5mVXpo9Ncv-n8iI6q0GF7L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
